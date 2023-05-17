@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Home"
+    url: /index.html
+  - title: "About"
+    url: /about/
+  - title: "ETC"
+    url: /etc/
+  - title: "Category"
+    url: /categories/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+gitblog:
+  - title: gitblog
+    children:
+      - title: "Gitblog test"
+        url: /gitblog/test/
