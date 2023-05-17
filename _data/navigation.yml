@@ -10,8 +10,11 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
+  - title: "Year"
+    url: /year-archive/
   - title: "Search"
     url: /search/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
