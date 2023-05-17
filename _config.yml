@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Posts by Month"
-      icon: "fa-regular fa-clock"
+      icon: "fa-solid fa-clock"
       url: "/month-archive/"
 
 # Site Footer
