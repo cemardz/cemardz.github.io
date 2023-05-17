@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "CEMARDZ"
   avatar           : "/images/cemardz_1.png"
-  bio              : "CMZ"
+  bio              : "The journey to find happiness is like a path towards the shining star of our dreams in our hearts."
   location         : "Somewhere"
   email            :
   links:
@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Posts by Month"
+      icon: "fa-regular fa-clock"
+      url: "/month-archive/"
 
 # Site Footer
 footer:
