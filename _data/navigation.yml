@@ -21,7 +21,7 @@ main:
   #   url: /sitemap/
 
 sidebar-story:
-  - title: "story"
+  - title: "happiness"
     url: /story/happiness/
     children:
       - title: "to be happy"
