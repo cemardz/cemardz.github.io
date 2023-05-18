@@ -26,3 +26,47 @@ sidebar-story:
     children:
       - title: "to be happy"
         url: /story/happiness/to-be-happy
+  - title: "Joy"
+    url: /story/happiness/
+    children:
+      - title: "to be happy"
+        url: /story/happiness/to-be-happy
+  - title: "Satisfaction"
+    url: /story/happiness/
+    children:
+  - title: "Laughter"
+    url: /story/happiness/
+    children:
+  - title: "Excitement"
+    url: /story/happiness/
+    children:
+  - title: "Contentment"
+    url: /story/happiness/
+    children:
+  - title: "Affection"
+    url: /story/happiness/
+    children:
+  - title: "Depression"
+    url: /story/happiness/
+    children:
+  - title: "Sadness"
+    url: /story/happiness/
+    children:
+  - title: "Despair"
+    url: /story/happiness/
+    children:
+  - title: "Disappointment"
+    url: /story/happiness/
+    children:
+  - title: "Apathy"
+    url: /story/happiness/
+    children:
+  - title: "Guilt"
+    url: /story/happiness/
+    children:
+  - title: "Anger"
+    url: /story/happiness/
+    children:
+  - title: "Love"
+    url: /story/happiness/
+    children:
