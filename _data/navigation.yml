@@ -2,6 +2,10 @@
 main:
   - title: "Home"
     url: /index.html
+  - title: "Story"
+    url: /story/
+  - title: "Project"
+    url: /project/
   - title: "About"
     url: /about/
   - title: "Category"
