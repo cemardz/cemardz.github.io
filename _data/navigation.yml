@@ -20,8 +20,9 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-gitblog:
-  - title: gitblog
+sidebar-story:
+  - title: "story"
+    url: /story/happiness/
     children:
-      - title: "Gitblog test"
-        url: /gitblog/test/
+      - title: "to be happy"
+        url: /story/happiness/to-be-happy
