@@ -131,6 +131,9 @@ author:
     - label: "Posts by Month"
       icon: "fas fa-calendar"
       url: "/month-archive/"
+    - label: "Category"
+      icon: "fas fa-calendar"
+      url: "/categories/"
 
 # Site Footer
 footer:
