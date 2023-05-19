@@ -2,20 +2,18 @@
 main:
   - title: "Home"
     url: /index.html
+  - title: "About"
+    url: /about/
   - title: "Story"
     url: /story/
   - title: "Agriculture"
     url: /agriculture/
   - title: "Chip"
     url: /chip/
-  - title: "AI"
-    url: /ai/
   - title: "Robotics"
     url: /robotics/
   - title: "Project"
     url: /project/
-  - title: "About"
-    url: /about/
   # - title: "Category"
   #   url: /categories/
   # - title: "Year"
