@@ -4,6 +4,16 @@ main:
     url: /index.html
   - title: "Story"
     url: /story/
+  - title: "Startup"
+    url: /startup/
+  - title: "Agriculture"
+    url: /agriculture/
+  - title: "Semiconductor"
+    url: /semiconductor/
+  - title: "AI"
+    url: /ai/
+  - title: "Robotics"
+    url: /robotics/
   - title: "Project"
     url: /project/
   - title: "About"
