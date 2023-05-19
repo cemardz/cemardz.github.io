@@ -16,8 +16,8 @@ main:
     url: /project/
   - title: "About"
     url: /about/
-  - title: "Category"
-    url: /categories/
+  # - title: "Category"
+  #   url: /categories/
   # - title: "Year"
   #   url: /year-archive/
   - title: "Search"
