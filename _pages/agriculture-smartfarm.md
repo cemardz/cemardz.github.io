@@ -1,5 +1,5 @@
 ---
-title: "[Agriculture | Smart Farm]"
+title: "[Agriculture / Smart Farm]"
 permalink: /agriculture/smartfarm/
 layout: category
 taxonomy: smartfarm
