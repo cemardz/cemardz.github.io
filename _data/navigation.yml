@@ -76,3 +76,11 @@ sidebar-story:
   - title: "Love"
     url: /story/happiness/
     children:
+    
+    
+sidebar-agriculture:
+  - title: "Smart Farm"
+    url: /story/agriculture/
+    children:
+      - title: "What is a smart farm?"
+        url: 
