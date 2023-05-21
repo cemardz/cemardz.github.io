@@ -1,5 +1,5 @@
 ---
-title: "Agriculture"
+title: "agriculture"
 permalink: /agriculture/
 layout: category
 taxonomy: agriculture
