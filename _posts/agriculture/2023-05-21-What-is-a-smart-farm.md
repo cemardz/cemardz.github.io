@@ -6,7 +6,6 @@ title: "What is a Smart Farm?"
 excerpt: "Smart farming has always been of utmost interest to me."
 toc: true
 toc_sticky: true
-toc_label: 목차
 categories:
   - agriculture
 tags:
