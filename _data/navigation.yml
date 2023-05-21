@@ -77,10 +77,3 @@ sidebar-story:
     url: /story/happiness/
     children:
     
-    
-sidebar-agriculture:
-  - title: "Smart Farm"
-    url: /agriculture/SmartFarm/
-    children:
-      - title: "What is a smart farm?"
-        url: /agriculture/SmartFarm/What-is-a-smart-farm/
