@@ -1,10 +1,10 @@
 ---
-title: "agriculture"
+title: "Agriculture"
 permalink: /agriculture/
 layout: category
 taxonomy: agriculture
 classes: wide
 sidebar:
-  title: "agriculture"
+  title: "Agriculture"
   nav: sidebar-agriculture
 ---
