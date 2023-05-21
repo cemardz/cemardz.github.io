@@ -1,7 +1,7 @@
 ---
 sidebar:
-  title: "CS"
-  nav: sidebar-cs
+  title: "Agriculture"
+  nav: sidebar-agriculture
 title: "What is a Smart Farm?" 
 excerpt: "Smart farming has always been of utmost interest to me."
 toc: true
