@@ -2,18 +2,21 @@
 sidebar:
   title: "Agriculture"
   nav: sidebar-agriculture
-title: "What is a Smart Farm?" 
+title: "What is a Smart Farm?"
 excerpt: "Smart farming has always been of utmost interest to me."
+
 toc: true
 toc_sticky: true
+
 categories:
   - agriculture
 tags:
   - [Smart Farm]
+
 depth:
   - title: "Agriculture"
     url: /agriculture/
-  - title: "Smart Farm"
+  - title: "SmartFarm"
     url: /agriculture/SmartFarm/
 ---
 
