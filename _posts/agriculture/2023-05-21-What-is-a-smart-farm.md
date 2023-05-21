@@ -1,17 +1,21 @@
 ---
+sidebar:
+  title: "CS"
+  nav: sidebar-cs
 title: "What is a Smart Farm?" 
 excerpt: "Smart farming has always been of utmost interest to me."
-
+toc: true
+toc_sticky: true
+toc_label: 목차
 categories:
   - agriculture
 tags:
   - [Smart Farm]
-
-toc: true
-toc_sticky: true
-
-date: 2023-05-21 14:11:00 +0900
-last_modified_at: 2023-05-21 14:11:00 +0900
+depth:
+  - title: "Agriculture"
+    url: /agriculture/
+  - title: "Smart Farm"
+    url: /agriculture/SmartFarm/
 ---
 
 ### Introduction
