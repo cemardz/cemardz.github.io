@@ -83,4 +83,4 @@ sidebar-agriculture:
     url: /agriculture/SmartFarm/
     children:
       - title: "What is a smart farm?"
-        url: /agriculture/What-is-a-smart-farm/
+        url: /agriculture/SmartFarm/What-is-a-smart-farm/
