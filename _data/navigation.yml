@@ -80,7 +80,7 @@ sidebar-story:
     
 sidebar-agriculture:
   - title: "Smart Farm"
-    url: /story/agriculture/
+    url: /agriculture/SmartFarm/
     children:
       - title: "What is a smart farm?"
         url: /story/agriculture/What-is-a-smart-farm/
