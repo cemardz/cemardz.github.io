@@ -1,10 +1,10 @@
 ---
-title: "Agriculture / Smart Farm"
+title: "agriculture / SmartFarm"
 permalink: /agriculture/SmartFarm/
 layout: category
 taxonomy: SmartFarm
 classes: wide
 sidebar:
-  title: "Agriculture"
+  title: "agriculture"
   nav: sidebar-agriculture
 ---
