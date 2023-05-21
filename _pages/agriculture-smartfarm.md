@@ -1,12 +1,10 @@
 ---
-title: "CS / CPU"
-permalink: /cs/cpu/
+title: "Agriculture / Smart Farm"
+permalink: /agriculture/smartfarm/
 layout: category
-taxonomy: cpu
+taxonomy: smartfarm
 classes: wide
-icon: "far fa-folder-open"
 sidebar:
-  title: "CS"
-  nav: sidebar-cs
-  icon: "fas fa-microchip"
+  title: "Agriculture"
+  nav: sidebar-agriculture
 ---
