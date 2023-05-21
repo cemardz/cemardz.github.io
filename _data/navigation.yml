@@ -78,7 +78,7 @@ sidebar-story:
     children:
     
 sidebar-agriculture:
-  - title: "smart farm"
+  - title: "smartfarm"
     url: /agriculture/smartfarm/
     children:
       - title: "What is a smart farm?"
