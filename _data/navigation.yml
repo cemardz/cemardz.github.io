@@ -27,6 +27,11 @@ main:
   #   url: /sitemap/
 
 sidebar-story:
+  - title: "I,  my,  me,  mine,  myself"
+    url: /story/me/
+    children:
+      - title: "Ten Commandments of Life"
+        url: /story/me/TenCommandmentsOfLife
   - title: "happiness"
     url: /story/happiness/
     children:
