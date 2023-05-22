@@ -20,4 +20,4 @@ Someone may pray to become a beautiful star like me who never gives up, but in f
 
 Lastly, I hope for a world where everyone understands and respects each other. Recognizing our differences, acknowledging and respecting them is necessary for us all to live together. May we all work towards a better world and a happier life.
 
-From. CMZ
+<div style="text-align: right"> From. CMZ </div>
