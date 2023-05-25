@@ -28,10 +28,10 @@ main:
 
 sidebar-eltoe:
   - title: "ELTOE Story"
-    url: /eltoe/startup/
+    url: /eltoe/story/
     children:
       - title: "if i start a business"
-        url: /eltoe/startup/if-i-start-a-busines/
+        url: /eltoe/story/if-i-start-a-busines/
 
 sidebar-agriculture:
   - title: "smartfarm"
