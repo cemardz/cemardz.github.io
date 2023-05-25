@@ -4,8 +4,8 @@ main:
     url: /index.html
   - title: "About"
     url: /about/
-  - title: "Story"
-    url: /story/
+  - title: "ELTOE"
+    url: /eltoe/
   - title: "Agriculture"
     url: /agriculture/
   - title: "Chip"
@@ -26,62 +26,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar-story:
-  - title: "I,  my,  me,  mine,  myself"
-    url: /story/me/
-    children:
-      - title: "Ten Commandments of Life"
-        url: /story/me/TenCommandmentsOfLife
-  - title: "happiness"
-    url: /story/happiness/
-    children:
-      - title: "to be happy"
-        url: /story/happiness/to-be-happy
-  - title: "Joy"
-    url: /story/happiness/
-    children:
-      - title: "to be happy"
-        url: /story/happiness/to-be-happy
-  - title: "Satisfaction"
-    url: /story/happiness/
-    children:
-  - title: "Laughter"
-    url: /story/happiness/
-    children:
-  - title: "Excitement"
-    url: /story/happiness/
-    children:
-  - title: "Contentment"
-    url: /story/happiness/
-    children:
-  - title: "Affection"
-    url: /story/happiness/
-    children:
-  - title: "Depression"
-    url: /story/happiness/
-    children:
-  - title: "Sadness"
-    url: /story/happiness/
-    children:
-  - title: "Despair"
-    url: /story/happiness/
-    children:
-  - title: "Disappointment"
-    url: /story/happiness/
-    children:
-  - title: "Apathy"
-    url: /story/happiness/
-    children:
-  - title: "Guilt"
-    url: /story/happiness/
-    children:
-  - title: "Anger"
-    url: /story/happiness/
-    children:
-  - title: "Love"
-    url: /story/happiness/
-    children:
-    
 sidebar-agriculture:
   - title: "smartfarm"
     url: /agriculture/smartfarm/
