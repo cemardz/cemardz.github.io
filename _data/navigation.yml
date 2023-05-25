@@ -26,6 +26,13 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+sidebar-eltoe:
+  - title: "ELTOE"
+    url: /eltoe/startup/
+    children:
+      - title: "if i start a business"
+        url: /eltoe/startup/if-i-start-a-busines/
+
 sidebar-agriculture:
   - title: "smartfarm"
     url: /agriculture/smartfarm/
