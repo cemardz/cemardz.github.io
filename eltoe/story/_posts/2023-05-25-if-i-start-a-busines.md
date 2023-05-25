@@ -5,7 +5,7 @@ sidebar:
 title: "If i start a busines"
 excerpt: "This post is a little different because I'm going to talk about myself for a moment."
 
-toc: true
+toc: false
 toc_sticky: true
 
 categories:
