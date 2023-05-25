@@ -297,7 +297,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      toc: true
+      toc: false
       toc_sticky: true
       toc_label: Index
 
