@@ -5,7 +5,7 @@ sidebar:
 title: "What is a Smart Farm?"
 excerpt: "Smart farming has always been of utmost interest to me."
 
-toc: true
+toc: false
 toc_sticky: true
 
 classes: wide
