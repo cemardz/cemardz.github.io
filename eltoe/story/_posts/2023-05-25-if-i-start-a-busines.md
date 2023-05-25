@@ -28,6 +28,8 @@ But this is just the beginning. I don't see vertical farming as merely a method 
 
 Thus, I plan to incorporate advanced technologies like robotics, semiconductors, artificial intelligence, and security into this vertical farming. Robotics technology can automate the management and harvesting of crops, and semiconductors are essential components for controlling these robots and other systems. Artificial intelligence plays a crucial role in monitoring numerous variables in vertical farming, determining, and adjusting the optimal conditions for production.
 
+![Image](https://drive.google.com/file/d/1GN5yBF8eW7ibG5DVAfXA-a_MrzfnOLpV/view?usp=sharing)
+
 ### Technical combination
 The integration of such technologies is not just about improving efficiency. It transforms the way we look at agriculture and lays the foundation for sustainable growth and development of the industry. It offers potential beyond the limitations of traditional farming methods, lifting crop production into an entirely new dimension.
 
