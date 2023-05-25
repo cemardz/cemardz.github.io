@@ -2,10 +2,10 @@
 main:
   - title: "Home"
     url: /index.html
-  - title: "About"
-    url: /about/
   - title: "ELTOE"
     url: /eltoe/
+  - title: "About"
+    url: /about/
   - title: "Agriculture"
     url: /agriculture/
   - title: "Chip"
