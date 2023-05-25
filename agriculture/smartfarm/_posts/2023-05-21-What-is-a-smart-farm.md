@@ -8,6 +8,8 @@ excerpt: "Smart farming has always been of utmost interest to me."
 toc: true
 toc_sticky: true
 
+classes: wide
+
 categories:
   - agriculture
 tags:
