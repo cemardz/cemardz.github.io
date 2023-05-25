@@ -1,10 +1,10 @@
 ---
-title: "Story"
-permalink: /story/
+title: "ELTOE"
+permalink: /eltoe/
 layout: category
-taxonomy: story
+taxonomy: eltoe
 classes: wide
 sidebar:
-  title: "story"
-  nav: sidebar-story
+  title: "eltoe"
+  nav: sidebar-eltoe
 ---
