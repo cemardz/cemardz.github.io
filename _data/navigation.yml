@@ -27,7 +27,7 @@ main:
   #   url: /sitemap/
 
 sidebar-eltoe:
-  - title: "ELTOE"
+  - title: "ELTOE Story"
     url: /eltoe/startup/
     children:
       - title: "if i start a business"
