@@ -29,13 +29,17 @@ main:
 sidebar-eltoe:
   - title: "ELTOE Story"
     url: /eltoe/story/
+    classes: wide
     children:
       - title: "if i start a business"
         url: /eltoe/story/if-i-start-a-busines/
+        classes: wide
 
 sidebar-agriculture:
   - title: "smartfarm"
     url: /agriculture/smartfarm/
+    classes: wide
     children:
       - title: "What is a smart farm?"
         url: /agriculture/smartfarm/What-is-a-smart-farm/
+        classes: wide
