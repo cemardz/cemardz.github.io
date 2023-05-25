@@ -8,6 +8,8 @@ excerpt: "This post is a little different because I'm going to talk about myself
 toc: false
 toc_sticky: true
 
+classes: wide
+
 categories:
   - eltoe
 tags:
