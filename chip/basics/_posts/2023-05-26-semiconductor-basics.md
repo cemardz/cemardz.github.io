@@ -3,7 +3,7 @@ sidebar:
   title: "Chip"
   nav: sidebar-chip
 title: "What is a Semiconductor?"
-excerpt: ""
+excerpt: "I'm going to post briefly today about what a semiconductor is."
 
 toc: false
 toc_sticky: true
