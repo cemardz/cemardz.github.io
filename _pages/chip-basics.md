@@ -1,8 +1,8 @@
 ---
 title: "[Chip / Basic]"
-permalink: /chip/basic/
+permalink: /chip/basics/
 layout: category
-taxonomy: basic
+taxonomy: basics
 classes: wide
 sidebar:
   title: "chip"
