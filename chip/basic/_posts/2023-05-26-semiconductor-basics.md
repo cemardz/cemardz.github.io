@@ -16,7 +16,7 @@ tags:
   - [chip]
 
 depth:
-  - title: "Chpi"
+  - title: "Chip"
     url: /chip/
   - title: "basics"
     url: /chip/basics/
