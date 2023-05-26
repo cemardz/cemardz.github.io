@@ -43,3 +43,13 @@ sidebar-agriculture:
       - title: "What is a smart farm?"
         url: /agriculture/smartfarm/What-is-a-smart-farm/
         classes: wide
+        
+        
+sidebar-chip:
+  - title: "semiconductor"
+    url: /chip/basics/
+    classes: wide
+    children:
+      - title: "What is a smart farm?"
+        url: /chip/basics/semiconductor-basics/
+        classes: wide
