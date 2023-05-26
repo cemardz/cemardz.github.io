@@ -50,6 +50,6 @@ sidebar-chip:
     url: /chip/basics/
     classes: wide
     children:
-      - title: "What is a smart farm?"
+      - title: "What is a Semiconductor?"
         url: /chip/basics/semiconductor-basics/
         classes: wide
