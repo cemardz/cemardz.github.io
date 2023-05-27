@@ -44,7 +44,6 @@ sidebar-agriculture:
         url: /agriculture/smartfarm/What-is-a-smart-farm/
         classes: wide
         
-        
 sidebar-chip:
   - title: "semiconductor"
     url: /chip/basics/
@@ -52,4 +51,13 @@ sidebar-chip:
     children:
       - title: "What is a Semiconductor?"
         url: /chip/basics/semiconductor-basics/
+        classes: wide
+
+sidebar-story:
+  - title: "Fitst story"
+    url: /MyStory/love/
+    classes: wide
+    children:
+      - title: "How To Love"
+        url: /MyStory/love/HowToLove/
         classes: wide
