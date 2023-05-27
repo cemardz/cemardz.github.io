@@ -136,7 +136,7 @@ author:
       url: "/categories/"
     - label: "Story"
       icon: "fas fa-star"
-      url: "/story/"
+      url: "/MyStory/"
 
 # Site Footer
 footer:
