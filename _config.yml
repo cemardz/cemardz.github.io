@@ -134,6 +134,9 @@ author:
     - label: "Category"
       icon: "fas fa-calendar"
       url: "/categories/"
+    - label: "Story"
+      icon: "fas fa-star"
+      url: "/story/"
 
 # Site Footer
 footer:
