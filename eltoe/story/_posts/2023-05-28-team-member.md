@@ -3,7 +3,7 @@ sidebar:
   title: "ELTOE"
   nav: sidebar-eltoe
 title: "Study together and find a team member"
-excerpt: "This post is a little different because I'm going to talk about myself for a moment."
+excerpt: "ollaboration with experts in various fields is necessary to achieve such great goals."
 
 toc: false
 toc_sticky: true
