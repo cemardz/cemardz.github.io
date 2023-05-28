@@ -34,6 +34,9 @@ sidebar-eltoe:
       - title: "if i start a business"
         url: /eltoe/story/if-i-start-a-busines/
         classes: wide
+      - title: "Study together and find a team member"
+        url: /eltoe/story/eam-member/
+        classes: wide
 
 sidebar-agriculture:
   - title: "smartfarm"
