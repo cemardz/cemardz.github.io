@@ -75,5 +75,5 @@ sidebar-project:
     classes: wide
     children:
       - title: "ongoing & planned projects"
-        url: /MyStory/love/ongoing-and-planned-projects/
+        url: /project/proceeding/ongoing-and-planned-projects/
         classes: wide
