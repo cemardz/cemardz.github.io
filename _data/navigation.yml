@@ -66,3 +66,14 @@ sidebar-story:
       - title: "How To Love"
         url: /MyStory/love/HowToLove/
         classes: wide
+
+
+
+sidebar-project:
+  - title: "ongoing project"
+    url: /project/proceeding/
+    classes: wide
+    children:
+      - title: "ongoing & planned projects"
+        url: /MyStory/love/ongoing-and-planned-projects/
+        classes: wide
