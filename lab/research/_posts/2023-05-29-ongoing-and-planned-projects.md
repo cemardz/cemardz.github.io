@@ -75,7 +75,7 @@ li {
 <li><strong>Research on Policies such as Environmental Taxes and Carbon Emissions Trading:</strong> By conducting research on various policies for environmental protection, especially taxes and carbon emissions trading, more effective environmental policies can be proposed and implemented. Research can include analyzing the effects of current policies, exploring improvement measures, and proposing new policies.</li>
 </ol>
 
-<h4 class="header">Bio</h4>
+<h3 class="header">Bio</h3>
 <ol>
 <li><strong>Ways to Utilize Genome and Microbiome Data:</strong> Genomic research is a core field of life science, and microbiome research plays a critical role in understanding the impact on our health and disease. Using this data, research can be conducted in the direction of developing new treatments, preventing and managing diseases, and personalized medicine.</li>
 </ol>
