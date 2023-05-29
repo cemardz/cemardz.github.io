@@ -82,9 +82,10 @@ sidebar-lab:
     url: /lab/research/
     classes: wide
     children:
-      - title: ""
-        url: /lab/research//
+      - title: "Ongoing research"
+        url: /lab/research/ongoing-research/
         classes: wide
+
 
 
 sidebar-project:
