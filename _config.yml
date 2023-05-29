@@ -137,6 +137,9 @@ author:
     - label: "Story"
       icon: "fas fa-star"
       url: "/MyStory/"
+    - label: "Project"
+      icon: "fas fa-diagram-project"
+      url: "/project/"
 
 # Site Footer
 footer:
