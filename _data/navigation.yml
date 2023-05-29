@@ -12,8 +12,10 @@ main:
     url: /chip/
   - title: "Robotics"
     url: /robotics/
-  - title: "Project"
-    url: /project/
+  - title: "Lab"
+    url: /lab/
+  # - title: "Project"
+  #   url: /project/
   # - title: "Category"
   #   url: /categories/
   # - title: "Year"
