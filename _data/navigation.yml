@@ -96,3 +96,13 @@ sidebar-project:
       - title: "ongoing & planned projects"
         url: /project/proceeding/ongoing-and-planned-projects/
         classes: wide
+
+
+sidebar-diary:
+  - title: "daily"
+    url: /diary/daily/
+    classes: wide
+    children:
+      - title: "2023-06-14"
+        url: /diary/daily/2023-06-14/
+        classes: wide
