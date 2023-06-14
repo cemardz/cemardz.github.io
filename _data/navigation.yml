@@ -14,6 +14,8 @@ main:
     url: /robotics/
   - title: "Lab"
     url: /lab/
+  - title: "Diary"
+    url: /diary/
   # - title: "Project"
   #   url: /project/
   # - title: "Category"
