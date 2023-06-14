@@ -138,7 +138,7 @@ author:
       icon: "fas fa-book"
       url: "diary"
     - label: "Story"
-      icon: "fas fa-book-medical"
+      icon: "fas fa-star"
       url: "/MyStory/"
     - label: "Project"
       icon: "fas fa-project-diagram"
