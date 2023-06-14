@@ -136,7 +136,7 @@ author:
     #  url: "/categories/"
     - label: "diary"
       icon: "fas fa-book"
-      url: "diary"
+      url: "/diary/"
     - label: "Story"
       icon: "fas fa-star"
       url: "/MyStory/"
