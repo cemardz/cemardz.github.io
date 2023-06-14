@@ -101,7 +101,7 @@ sidebar-project:
 
 
 sidebar-diary:
-  - title: "diary"
+  - title: "daily"
     url: /diary/daily/
     classes: wide
     children:
