@@ -99,7 +99,7 @@ sidebar-project:
 
 
 sidebar-diary:
-  - title: "daily"
+  - title: "diary"
     url: /diary/daily/
     classes: wide
     children:
