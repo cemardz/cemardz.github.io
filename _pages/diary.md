@@ -5,6 +5,6 @@ layout: category
 taxonomy: diary
 classes: wide
 sidebar:
-  title: "My Story"
+  title: "My diary"
   nav: sidebar-diary
 ---
