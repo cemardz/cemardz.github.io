@@ -103,6 +103,6 @@ sidebar-diary:
     url: /diary/daily/
     classes: wide
     children:
-      - title: "2023-06-14-June-14-2023-diary"
+      - title: "June-14-2023-diary"
         url: /diary/daily/2023-06-14-June-14-2023-diary/
         classes: wide
