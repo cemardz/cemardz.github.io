@@ -106,3 +106,12 @@ sidebar-diary:
       - title: "June-14-2023-diary"
         url: /diary/daily/June-14-2023-diary/
         classes: wide
+
+sidebar-thesis:
+  - title: "논문 리뷰"
+    url: /thesis/review/
+    classes: wide
+    children:
+      - title: "June-14-2023-diary"
+        url: /diary/daily/June-14-2023-diary/
+        classes: wide
