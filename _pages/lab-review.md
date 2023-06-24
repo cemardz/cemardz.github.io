@@ -1,8 +1,8 @@
 ---
-title: "Lab"
-permalink: /lab/
+title: "[LAB / review]"
+permalink: /lab/review/
 layout: category
-taxonomy: lab
+taxonomy: review
 classes: wide
 sidebar:
   title: "Lab"

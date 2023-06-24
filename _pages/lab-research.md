@@ -5,6 +5,6 @@ layout: category
 taxonomy: research
 classes: wide
 sidebar:
-  title: "lab"
+  title: "Lab"
   nav: sidebar-lab
 ---
