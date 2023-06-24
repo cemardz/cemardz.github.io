@@ -112,6 +112,6 @@ sidebar-thesis:
     url: /thesis/review/
     classes: wide
     children:
-      - title: "June-14-2023-diary"
-        url: /diary/daily/June-14-2023-diary/
+      - title: "객체 탐지를 이용한 블루베리 생육량 측정 시스템에 관한 연구"
+        url: /diary/daily/Research-on-Blueberry-Growth-Measurement-System-Using-Object-Detection/
         classes: wide
