@@ -82,7 +82,7 @@ sidebar-lab:
     classes: wide
     children:
       - title: "Ongoing research"
-        url: /lab/research/ongoing-research/
+        url: /lab/research/ongoing-and-planned-projects/
         classes: wide
   - title: "논문 리뷰"
     url: /lab/review/
