@@ -65,17 +65,6 @@ sidebar-chip:
         classes: wide
 
 
-
-sidebar-story:
-  - title: "Fitst story"
-    url: /MyStory/love/
-    classes: wide
-    children:
-      - title: "How To Love"
-        url: /MyStory/love/HowToLove/
-        classes: wide
-
-
 sidebar-lab:
   - title: "Research"
     url: /lab/research/
@@ -110,4 +99,7 @@ sidebar-diary:
     children:
       - title: "June-14-2023-diary"
         url: /diary/daily/June-14-2023-diary/
+        classes: wide
+      - title: "June-26-2023-diary"
+        url: /diary/daily/June-26-2023-diary/
         classes: wide
