@@ -21,3 +21,5 @@ depth:
   - title: "proceeding"
     url: /project/proceeding/
 ---
+
+[get to the top](#){: .btn .btn--primary }{: .align-right}

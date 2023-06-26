@@ -63,3 +63,5 @@ Moreover, smart farming heightens expectations for food safety and quality. Thro
 In conclusion, smart farming is a technology that brightens the future of agriculture. It is evolving to improve the quality and productivity of crops, heighten their safety and reliability, and reduce their impact on the environment. And all of these changes will be directly experienced at our dining tables.
 
 Therefore, we must continue to pay attention to smart farming. The changes this technology will bring to agriculture will impact the food we eat, the lives of farmers, and even the global food supply chain. That's why smart farming is a story that involves us all.
+
+[get to the top](#){: .btn .btn--primary }{: .align-right}

@@ -68,3 +68,5 @@ Each role is essential, and we strive for the success of the smart farm by shari
 We look forward to many applications from thosewho wish to participate in the journey of creating innovative smart farms.
 
 Thank you.
+
+[get to the top](#){: .btn .btn--primary }{: .align-right}

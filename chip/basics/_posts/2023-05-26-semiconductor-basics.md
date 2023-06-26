@@ -45,3 +45,5 @@ Furthermore, semiconductors are used in computer CPUs and memory, and the advanc
 
 ### Conclusion
 Semiconductors are an essential technology in modern society. It is also a technology in which I have taken a lot of interest. The development of semiconductor technology will continue to make our lives more convenient and affluent. Through this post, we looked at the basic concepts, principles, and applications of semiconductors. Thank you.
+
+[get to the top](#){: .btn .btn--primary }{: .align-right}

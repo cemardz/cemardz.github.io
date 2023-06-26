@@ -84,3 +84,5 @@ So, through this blog, with you, creating the future of agriculture, and partici
 With you, I am not afraid to usher in a new era of agriculture called smart farming. Rather, it will be an exciting adventure showing how agriculture and technology can innovatively change our lives. I hope that you will join this adventure, and I will finish with the expectation and excitement for this journey that begins now.
 
 Thank you for reading my long text.
+
+[get to the top](#){: .btn .btn--primary }{: .align-right}
