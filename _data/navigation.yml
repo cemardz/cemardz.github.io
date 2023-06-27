@@ -106,3 +106,11 @@ sidebar-diary:
       - title: "June-27-2023-diary"
         url: /diary/daily/June-27-2023-diary/
         classes: wide
+  - title: "농업일기"
+    url: /diary/agricultural-daily/
+    classes: wide
+    children:
+      - title: "June-14-2023-diary"
+        url: /diary/daily/June-14-2023-diary/
+        classes: wide
+      - title: "June-26-2023-diary"
