@@ -110,7 +110,6 @@ sidebar-diary:
     url: /diary/agricultural-daily/
     classes: wide
     children:
-      - title: "June-14-2023-diary"
-        url: /diary/daily/June-14-2023-diary/
+      - title: "토마토 이야기"
+        url: /diary/agricultural-daily/2023-06-27-tomato-diary/
         classes: wide
-      - title: "June-26-2023-diary"
