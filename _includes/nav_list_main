@@ -19,20 +19,92 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "일기" %}
+                    {% if category[0] == "농업 이론" %}
                         <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "일기" %}
+                        <li><a href="/categories/" class="">농업 일기 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "농업 데이터" %}
+                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "반도체" %}
+                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "인공지능" %}
+                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "스마트팜" %}
+                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">랩실</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "논문 리뷰" %}
+                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "연구" %}
+                        <li><a href="/categories/" class="">농업 일기 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "프로젝트" %}
+                        <li><a href="/categories/" class="">농업 일기 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">환경</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Algorithm" %}
+                        <li><a href="/categories/기후변화" class="">기후변화 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">ELTOE</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "ELTOE" %}
+                        <li><a href="/categories/eltoe" class="">ELTOE ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul> 
         <span class="nav__sub-title">운동</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Algorithm" %}
-                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                        <li><a href="/categories/요가" class="">요가 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
-            
       </li>
   </ul>
 </nav>
