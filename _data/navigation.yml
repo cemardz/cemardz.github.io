@@ -1,0 +1,115 @@
+# main links
+main:
+  - title: "Home"
+    url: /index.html
+  - title: "ELTOE"
+    url: /eltoe/
+  - title: "About"
+    url: /about/
+  - title: "Agriculture"
+    url: /agriculture/
+  - title: "Chip"
+    url: /chip/
+  - title: "Robotics"
+    url: /robotics/
+  - title: "Lab"
+    url: /lab/
+  # - title: "Project"
+  #   url: /project/
+  # - title: "Category"
+  #   url: /categories/
+  # - title: "Year"
+  #   url: /year-archive/
+  - title: "Search"
+    url: /search/
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+
+
+sidebar-eltoe:
+  - title: "ELTOE Story"
+    url: /eltoe/story/
+    classes: wide
+    children:
+      - title: "if i start a business"
+        url: /eltoe/story/if-i-start-a-busines/
+        classes: wide
+      - title: "Find a team member"
+        url: /eltoe/story/eam-member/
+        classes: wide
+
+
+
+sidebar-agriculture:
+  - title: "smartfarm"
+    url: /agriculture/smartfarm/
+    classes: wide
+    children:
+      - title: "What is a smart farm?"
+        url: /agriculture/smartfarm/What-is-a-smart-farm/
+        classes: wide
+
+
+
+sidebar-chip:
+  - title: "semiconductor"
+    url: /chip/basics/
+    classes: wide
+    children:
+      - title: "What is a Semiconductor?"
+        url: /chip/basics/semiconductor-basics/
+        classes: wide
+
+
+sidebar-lab:
+  - title: "Research"
+    url: /lab/research/
+    classes: wide
+    children:
+      - title: "Ongoing research"
+        url: /lab/research/ongoing-and-planned-projects/
+        classes: wide
+  - title: "논문 리뷰"
+    url: /lab/review/
+    classes: wide
+    children:
+      - title: "객체 탐지를 이용한 블루베리 생육량 측정 시스템에 관한 연구"
+        url: /lab/review/Research-on-Blueberry-Growth-Measurement-System-Using-Object-Detection/
+        classes: wide
+
+
+sidebar-project:
+  - title: "ongoing project"
+    url: /project/proceeding/
+    classes: wide
+    children:
+      - title: "ongoing & planned projects"
+        url: /project/proceeding/ongoing-and-planned-projects/
+        classes: wide
+
+
+sidebar-diary:
+  - title: "daily"
+    url: /diary/daily/
+    classes: wide
+    children:
+      - title: "June-14-2023-diary"
+        url: /diary/daily/June-14-2023-diary/
+        classes: wide
+      - title: "June-26-2023-diary"
+        url: /diary/daily/June-26-2023-diary/
+        classes: wide
+      - title: "June-27-2023-diary"
+        url: /diary/daily/June-27-2023-diary/
+        classes: wide
+  - title: "농업일기"
+    url: /diary/agricultural-daily/
+    classes: wide
+    children:
+      - title: "토마토 이야기"
+        url: /diary/agricultural-daily/tomato-diary/
+        classes: wide
