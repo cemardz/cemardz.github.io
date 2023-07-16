@@ -2,22 +2,22 @@
 main:
   - title: "Home"
     url: /index.html
-  - title: "ELTOE"
-    url: /eltoe/
-  - title: "About"
-    url: /about/
-  - title: "Agriculture"
-    url: /agriculture/
-  - title: "Chip"
-    url: /chip/
-  - title: "Robotics"
-    url: /robotics/
-  - title: "Lab"
-    url: /lab/
+  #- title: "ELTOE"
+  #  url: /eltoe/
+  #- title: "About"
+  #  url: /about/
+  #- title: "Agriculture"
+  #  url: /agriculture/
+  #- title: "Chip"
+  #  url: /chip/
+  #- title: "Robotics"
+  #  url: /robotics/
+  #- title: "Lab"
+  #  url: /lab/
   # - title: "Project"
   #   url: /project/
-  # - title: "Category"
-  #   url: /categories/
+  - title: "Category"
+    url: /categories/
   # - title: "Year"
   #   url: /year-archive/
   - title: "Search"
