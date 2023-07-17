@@ -12,22 +12,22 @@
         <span class="nav__sub-title">농업</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "농업 이야기" %}
-                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% if category[0] == "as" %}
+                        <li><a href="/categories/as" class="">농업 이야기 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "농업 이론" %}
-                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% if category[0] == "at" %}
+                        <li><a href="/categories/at" class="">농업이론 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "일기" %}
-                        <li><a href="/categories/" class="">농업 일기 ({{category[1].size}})</a></li>
+                    {% if category[0] == "ad" %}
+                        <li><a href="/categories/ad" class="">농업 일기 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -40,22 +40,22 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "반도체" %}
-                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% if category[0] == "semiconductor" %}
+                        <li><a href="/categories/semiconductor" class="">반도체 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "인공지능" %}
-                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% if category[0] == "ai" %}
+                        <li><a href="/categories/ai" class="">인공지능 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "스마트팜" %}
-                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% if category[0] == "smartfarm" %}
+                        <li><a href="/categories/smartfarm" class="">스마트팜 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
