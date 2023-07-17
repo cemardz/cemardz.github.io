@@ -62,30 +62,30 @@
         <span class="nav__sub-title">랩실</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "논문 리뷰" %}
-                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                    {% if category[0] == "thesisreview" %}
+                        <li><a href="/categories/thesisreview" class="">논문 리뷰 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "연구" %}
-                        <li><a href="/categories/" class="">농업 일기 ({{category[1].size}})</a></li>
+                    {% if category[0] == "research" %}
+                        <li><a href="/categories/research" class="">연구 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "프로젝트" %}
-                        <li><a href="/categories/" class="">농업 일기 ({{category[1].size}})</a></li>
+                    {% if category[0] == "project" %}
+                        <li><a href="/categories/project" class="">프로젝트 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
         <span class="nav__sub-title">환경</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Algorithm" %}
-                        <li><a href="/categories/기후변화" class="">기후변화 ({{category[1].size}})</a></li>
+                    {% if category[0] == "abnormalclimate" %}
+                        <li><a href="/categories/abnormalclimate" class="">기후변화 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -100,8 +100,8 @@
         <span class="nav__sub-title">운동</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Algorithm" %}
-                        <li><a href="/categories/요가" class="">요가 ({{category[1].size}})</a></li>
+                    {% if category[0] == "yoga" %}
+                        <li><a href="/categories/yoga" class="">요가 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
