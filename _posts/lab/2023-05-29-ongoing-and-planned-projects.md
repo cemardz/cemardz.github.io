@@ -1,26 +1,24 @@
 ---
-sidebar:
-  title: "lab"
-  nav: sidebar-lab
 title: "Ongoing research"
-excerpt: ""
+
+categories:
+  - research
+tags:
+  - [Smart Farm, research]
+
+classes: wide
 
 toc: false
 toc_sticky: true
 
-classes: wide
+date: 2023-05-29 12:33:00 +0900
+last_modified_at: 2023-05-29 12:33:00 +0900
 
-categories:
-  - lab
-tags:
-  - [lab]
-
-depth:
-  - title: "lab"
-    url: /lab/
-  - title: "proceeding"
-    url: /lab/ongoing-research/
+header:
+  teaser:
+excerpt: ""
 ---
+
 <head>
 <style>
 body {
