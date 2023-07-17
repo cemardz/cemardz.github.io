@@ -1,25 +1,22 @@
 ---
-sidebar:
-  title: "Chip"
-  nav: sidebar-chip
 title: "What is a Semiconductor?"
-excerpt: "I'm going to post briefly today about what a semiconductor is."
+
+categories:
+  - semiconductor
+tags:
+  - [semiconductor]
+
+classes: wide
 
 toc: false
 toc_sticky: true
 
-classes: wide
+date: 2023-05-26 12:33:00 +0900
+last_modified_at: 2023-05-26 12:33:00 +0900
 
-categories:
-  - chip
-tags:
-  - [chip]
-
-depth:
-  - title: "Chip"
-    url: /chip/
-  - title: "basics"
-    url: /chip/basics/
+header:
+  teaser:
+excerpt: "I'm going to post briefly today about what a semiconductor is."
 ---
 ### Introduction
 I'm going to post briefly today about what a semiconductor is. I'm not a graduate of a semiconductor department, nor am I a graduate of electronics or electrical engineering. Therefore, there may be errors in my post.
