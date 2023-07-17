@@ -98,6 +98,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+      <span class="nav__sub-title">diary</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "dailydiary" %}
+                        <li><a href="/categories/dailydiary" class="">└ 일기 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
