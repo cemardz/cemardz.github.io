@@ -1,25 +1,22 @@
 ---
-sidebar:
-  title: "ELTOE"
-  nav: sidebar-eltoe
 title: "If i start a busines"
-excerpt: "This post is a little different because I'm going to talk about myself for a moment."
-
-toc: false
-toc_sticky: true
-
-classes: wide
 
 categories:
   - eltoe
 tags:
-  - [eltoe story]
+  - [eltoe]
 
-depth:
-  - title: "ELTOE"
-    url: /eltoe/
-  - title: "Story"
-    url: /eltoe/story/
+classes: wide
+
+toc: false
+toc_sticky: true
+
+date: 2023-05-25 12:33:00 +0900
+last_modified_at: 2023-05-25 12:33:00 +0900
+
+header:
+  teaser:
+excerpt: "This post is a little different because I'm going to talk about myself for a moment."
 ---
 ### Introduction
 This post is a little different because I'm going to talk about myself for a moment. This might not be a technologically advanced or particularly good read, but I would appreciate your understanding. I am considering starting a business. The startup I have in mind involves sophisticated technology integrated into agriculture, specifically a 'smart farm.'
