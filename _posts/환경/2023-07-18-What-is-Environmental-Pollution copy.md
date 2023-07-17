@@ -1,5 +1,5 @@
 ---
-title: "환경오염 이란?"
+title: "환경 오염 유형과 원인"
 
 categories:
   - abnormalclimate
