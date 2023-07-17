@@ -11,12 +11,12 @@ classes: wide
 toc: false
 toc_sticky: true
 
-date: 2023-07-17 23:10:00 +0900
-last_modified_at: 2023-07-17 23:10:00 +0900
+date: 2023-07-18 01:13:00 +0900
+last_modified_at: 2023-07-18 01:13:00 +0900
 
 header:
   teaser:
-excerpt: "환경오염이라는 용어는 종종 언급되지만 충분히 이해되지 않은 상태에서 중요한...."
+excerpt: "지구의 균형은 매우 미묘합니다. 자연은 모든 생명체...."
 ---
 
 ## 환경 오염 유형과 원인
