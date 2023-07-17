@@ -6,7 +6,9 @@ categories:
 tags:
   - [Smart Farm]
 
-toc: true
+classes: wide
+
+toc: false
 toc_sticky: true
 
 date: 2023-05-21 12:33:00 +0900
