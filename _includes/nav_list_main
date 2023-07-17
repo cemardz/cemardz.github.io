@@ -59,7 +59,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">랩실</span>
+        <span class="nav__sub-title">Lab</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "thesisreview" %}
@@ -81,7 +81,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">환경</span>
+        <span class="nav__sub-title">Environment</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "abnormalclimate" %}
