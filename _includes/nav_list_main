@@ -27,14 +27,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "ad" %}
-                        <li><a href="/categories/ad" class="">└ 농업 일기 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "농업 데이터" %}
-                        <li><a href="/categories/" class=""> ({{category[1].size}})</a></li>
+                        <li><a href="/categories/ad" class="">농업 데이터 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
