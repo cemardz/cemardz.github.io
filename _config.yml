@@ -134,9 +134,9 @@ author:
     #- label: "Category"
     #  icon: "fas fa-calendar"
     #  url: "/categories/"
-    - label: "diary"
-      icon: "fas fa-book"
-      url: "/diary/"
+    #- label: "diary"
+    #  icon: "fas fa-book"
+    #  url: "/diary/"
 
 # Site Footer
 footer:
