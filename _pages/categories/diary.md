@@ -1,7 +1,7 @@
 ---
-title: "diary"
+title: "daily diary"
 layout: archive
-permalink: categories/diary
+permalink: categories/dailydiary
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.diary %}
+{% assign posts = site.categories.dailydiary %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
