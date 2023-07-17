@@ -27,28 +27,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-
-
-
-sidebar-diary:
-  - title: "daily"
-    url: /diary/daily/
-    classes: wide
-    children:
-      - title: "June-14-2023-diary"
-        url: /diary/daily/June-14-2023-diary/
-        classes: wide
-      - title: "June-26-2023-diary"
-        url: /diary/daily/June-26-2023-diary/
-        classes: wide
-      - title: "June-27-2023-diary"
-        url: /diary/daily/June-27-2023-diary/
-        classes: wide
-  - title: "농업일기"
-    url: /diary/agricultural-daily/
-    classes: wide
-    children:
-      - title: "토마토 이야기"
-        url: /diary/agricultural-daily/tomato-diary/
-        classes: wide
