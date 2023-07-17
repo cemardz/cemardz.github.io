@@ -92,7 +92,7 @@
         <span class="nav__sub-title">ELTOE</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "ELTOE" %}
+                    {% if category[0] == "eltoe" %}
                         <li><a href="/categories/eltoe" class="">ELTOE ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
