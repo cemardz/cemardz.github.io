@@ -137,9 +137,6 @@ author:
     - label: "diary"
       icon: "fas fa-book"
       url: "/diary/"
-    - label: "Project"
-      icon: "fas fa-project-diagram"
-      url: "/project/"
 
 # Site Footer
 footer:
