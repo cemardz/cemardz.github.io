@@ -1,25 +1,22 @@
 ---
-sidebar:
-  title: "ELTOE"
-  nav: sidebar-eltoe
 title: "Study together and find a team member"
-excerpt: "ollaboration with experts in various fields is necessary to achieve such great goals."
-
-toc: false
-toc_sticky: true
-
-classes: wide
 
 categories:
   - eltoe
 tags:
   - [eltoe story]
 
-depth:
-  - title: "ELTOE"
-    url: /eltoe/
-  - title: "Story"
-    url: /eltoe/story/
+classes: wide
+
+toc: false
+toc_sticky: true
+
+date: 2023-05-25 12:33:00 +0900
+last_modified_at: 2023-05-25 12:33:00 +0900
+
+header:
+  teaser:
+excerpt: "ollaboration with experts in various fields is necessary to achieve such great goals."
 ---
 Hello, I am CMZ, the team leader of ELTOE. We are recruiting members for our smart farm startup team who are willing to work with us to lead a innovative and sustainable future.
 
