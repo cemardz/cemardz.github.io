@@ -13,21 +13,21 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "as" %}
-                        <li><a href="/categories/as" class="">농업 이야기 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/as" class="">└ 농업 이야기 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "at" %}
-                        <li><a href="/categories/at" class="">농업이론 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/at" class="">└ 농업이론 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "ad" %}
-                        <li><a href="/categories/ad" class="">농업 일기 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/ad" class="">└ 농업 일기 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -41,21 +41,21 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "semiconductor" %}
-                        <li><a href="/categories/semiconductor" class="">반도체 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/semiconductor" class="">└ 반도체 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "ai" %}
-                        <li><a href="/categories/ai" class="">인공지능 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/ai" class="">└ 인공지능 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "smartfarm" %}
-                        <li><a href="/categories/smartfarm" class="">스마트팜 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/smartfarm" class="">└ 스마트팜 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -63,21 +63,21 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "thesisreview" %}
-                        <li><a href="/categories/thesisreview" class="">논문 리뷰 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/thesisreview" class="">└ 논문 리뷰 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "research" %}
-                        <li><a href="/categories/research" class="">연구 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/research" class="">└ 연구 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "project" %}
-                        <li><a href="/categories/project" class="">프로젝트 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/project" class="">└ 프로젝트 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -85,7 +85,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "abnormalclimate" %}
-                        <li><a href="/categories/abnormalclimate" class="">기후변화 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/abnormalclimate" class="">└ 기후변화 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -93,7 +93,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "eltoe" %}
-                        <li><a href="/categories/eltoe" class="">ELTOE ({{category[1].size}})</a></li>
+                        <li><a href="/categories/eltoe" class="">└ ELTOE ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul> 
@@ -101,7 +101,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "yoga" %}
-                        <li><a href="/categories/yoga" class="">요가 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/yoga" class="">└ 요가 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
