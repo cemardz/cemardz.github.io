@@ -11,8 +11,8 @@ classes: wide
 toc: false
 toc_sticky: true
 
-date: 2023-07-19 11:50:00 +0900
-last_modified_at: 2023-07-19 11:50:00 +0900
+date: 2023-07-19
+last_modified_at: 2023-07-19
 
 header:
   teaser:
