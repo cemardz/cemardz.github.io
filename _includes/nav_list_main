@@ -98,6 +98,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "tennis" %}
+                        <li><a href="/categories/tennis" class="">└ 테니스 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       <span class="nav__sub-title">diary</span>
             <ul>
                 {% for category in site.categories %}
