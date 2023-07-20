@@ -52,6 +52,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "ETCstory" %}
+                        <li><a href="/categories/ETCstory" class="">└ 기타 농업 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <span class="nav__sub-title">Lab</span>
             <ul>
                 {% for category in site.categories %}
