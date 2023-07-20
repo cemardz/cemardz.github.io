@@ -15,6 +15,7 @@
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
+    <li><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcemardz.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%233F7F94&title=hits&edge_flat=false"/></li>
   </ul>
 </div>
 
